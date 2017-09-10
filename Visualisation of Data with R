@@ -4,7 +4,7 @@ install.packages("Rcmdr")
 library("Rcmdr")
 install.packages('rJava')
 
-setwd("C:\Users\Ayushi Mona\Documents\Term IV\AMMA2017\Dataset")
+setwd("C:\\Users\\Ayushi Mona\\Documents\\Term IV\\AMMA2017\\Dataset")
 
 dt<-read.csv("train.csv")
 #structure  of the data file imported
